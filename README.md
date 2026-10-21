@@ -103,8 +103,7 @@ Goals:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=windows7lover2000015&theme=react-dark&hide_border=true&bg_color=0d1117&area=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=windows7lover2000015&show_icons=true&theme=tokyonight&hide_border=true"/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=windows7lover2000015&label=Profile%20Views&color=1e90ff&style=flat-square"/>
