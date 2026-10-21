@@ -112,7 +112,7 @@ Goals:
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Counter in the form of the OG Nokia Snake game
 
 <div align="center">
 
