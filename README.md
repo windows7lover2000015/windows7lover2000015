@@ -73,10 +73,10 @@ Goals:
 
 | Project | Description |
 |---|---|
-| 🤖 **[Adrito's AI Chatbot](https://adritos-ai-chatbot.streamlit.app)** | Streamlit-powered AI chatbot, live on the web |
-| 📚 **Study Buddy** | Streamlit AI study assistant |
+| 🤖 **[Adrito's AI Chatbot](https://adritos-ai-chatbot.streamlit.app)** | Streamlit shell AI chatbot, live on the web |
+| 📚 **[Study Buddy](https://adritos-study-buddy.streamlit.app)** | Streamlit shell AI study assistant, live on the web too |
 | 📱 **Adrito's AI Apps (APK)** | 🚧 In Dev (still making the apk idk if it will turn out good) |
-| 💻 **Adrito's Hub .exe** | 🚧 In dev (this also im making idk if it will turn out good) |
+| 💻 **Adrito's Hub (EXE)** | 🚧 In dev (this also im making idk if it will turn out good) |
 | 💬 **Discord AI Bot** | Public AI assistant bot for Discord |
 
 </div>
