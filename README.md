@@ -85,8 +85,7 @@ Goals:
 
 # 🧠 Currently Building
 
-- 🐧 A custom **[Ubuntu](https://ubuntu.com)-based Linux OS** bundling my AI projects
-- 💬 A **[Discord](https://discord.com) AI assistant** that runs 24/7
+- 💬 A **[Discord](https://discord.com) AI assistant** that runs 24/7 (improving it whenever I find time)
 - 🤖 Improving my AI chatbot and Study Buddy
 
 ---
