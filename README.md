@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=55&lines=🤖+AI+Chatbot+Builder;🐍+Python+Developer;📚+Making+Study+Tools;🚀+Building+Cool+Projects)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/AI_Builder-1E90FF?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<a href="https://aistudio.google.com"><img src="https://img.shields.io/badge/AI_Builder-1E90FF?style=for-the-badge&logo=googlegemini&logoColor=white"/></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
@@ -42,12 +42,12 @@ Goals:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+<a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 
 </div>
 
@@ -59,9 +59,9 @@ Goals:
 
 **I vibe-code a LOT and I use Claude and Gemini, and yes Google AI Studio is the GOAT** 🐐
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/></a>
+<a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/></a>
+<a href="https://aistudio.google.com"><img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCAyYy42IDQuOCAzLjIgNy40IDggOC00LjguNi03LjQgMy4yLTggOC0uNi00LjgtMy4yLTcuNC04LTggNC44LS42IDcuNC0zLjIgOC04eiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTkgMTRjLjMgMi4yIDEuNSAzLjQgMy43IDMuNy0yLjIuMy0zLjQgMS41LTMuNyAzLjctLjMtMi4yLTEuNS0zLjQtMy43LTMuNyAyLjItLjMgMy40LTEuNSAzLjctMy43eiIvPjwvc3ZnPg%3D%3D&logoColor=white"/></a>
 
 </div>
 
@@ -85,8 +85,8 @@ Goals:
 
 # 🧠 Currently Building
 
-- 🐧 A custom **Ubuntu-based Linux OS** bundling my AI projects
-- 💬 A **Discord AI assistant** that runs 24/7
+- 🐧 A custom **[Ubuntu](https://ubuntu.com)-based Linux OS** bundling my AI projects
+- 💬 A **[Discord](https://discord.com) AI assistant** that runs 24/7
 - 🤖 Improving my AI chatbot and Study Buddy
 
 ---
@@ -118,7 +118,11 @@ Goals:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/windows7lover2000015/windows7lover2000015/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/windows7lover2000015/windows7lover2000015/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/windows7lover2000015/windows7lover2000015/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/windows7lover2000015/windows7lover2000015/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
