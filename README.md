@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a3d62,55:1e90ff,100:00d4ff&height=240&section=header&text=Hi%20There!%20👋%20I'm%20Adrito&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Builder%20•%20Python%20Developer%20•%20Streamlit%20Apps&descAlignY=60&descSize=18&descColor=c9eaff"/>
 
 <div align="center">
@@ -53,7 +51,19 @@ Goals:
 
 </div>
 
-> Add or remove badges at [shields.io](https://shields.io) or [simpleicons.org](https://simpleicons.org) (use the icon name in `logo=`).
+---
+
+# 🎧 How I Build
+
+<div align="center">
+
+**I vibe-code a LOT and I use Claude and Gemini, and yes Google AI Studio is the GOAT** 🐐
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -65,7 +75,8 @@ Goals:
 |---|---|
 | 🤖 **[Adrito's AI Chatbot](https://adritos-ai-chatbot.streamlit.app)** | Streamlit-powered AI chatbot, live on the web |
 | 📚 **Study Buddy** | Streamlit AI study assistant |
-| 📱 **[Adrito's AI Apps (APK)](https://adrito-apk.netlify.app)** | Android app bundling my AI projects |
+| 📱 **Adrito's AI Apps (APK)** | 🚧 In Dev (still making the apk idk if it will turn out good) |
+| 💻 **Adrito's Hub .exe** | 🚧 In dev (this also im making idk if it will turn out good) |
 | 💬 **Discord AI Bot** | Public AI assistant bot for Discord |
 
 </div>
@@ -103,16 +114,6 @@ Goals:
 
 ---
 
-# 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=windows7lover2000015&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -141,18 +142,3 @@ Goals:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1e90ff,100:0d1117&height=140&section=footer"/>
-
-<!--
-**windows7lover2000015/windows7lover2000015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
