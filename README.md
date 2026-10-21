@@ -57,7 +57,7 @@ Goals:
 
 <div align="center">
 
-**I vibe-code a LOT and I use Claude and Gemini, and yes Google AI Studio is the GOAT** 🐐
+**I vibe-code a LOT and I use Claude and Gemini, and yes Google AI Studio is the GOAT** 
 
 <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/></a>
 <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/></a>
