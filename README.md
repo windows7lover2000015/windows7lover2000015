@@ -85,7 +85,7 @@ Goals:
 
 # 🧠 Currently Building
 
-- 💬 A **[Discord](https://discord.com) AI assistant** that runs 24/7 (improving it whenever I find time)
+- 💬 A **Discord AI assistant bot** that runs 24/7 (improving it whenever I find time)
 - 🤖 Improving my AI chatbot and Study Buddy
 
 ---
